@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titulo">Bienvenido a la Trivia</string>
+    <string name="name">Escribe tu Nombre</string>
+    <string name="today_questions">Nuestra Trivia de Hoy</string>
+    <string name="hellow_player">Hola, %1$s!</string>
+    <string name="question">¿A qué lenguaje de programación pertenece la imagen?</string>
+    <string name="sendAnswer">Enviar Respuesta</string>
+    <string name="felicitaciones">¡¡¡ Felicitaciones !!!</string>
+    <string name="winnerMessage">¡ Genial %1$s! !</string>
+    <string name="buttonTryText">Ganaste, Intentalo otra vez</string>
+</resources>
